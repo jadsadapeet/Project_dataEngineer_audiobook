@@ -1,8 +1,2 @@
-# readme
-print("jadsadapeet123@gmail.com") / n
- for i in range (100) 
- sxp;c,x;
-
- sdl;as,.fd
-
- sddswda sdaeqwe
+# DATA ENGINEER >><< >> Project Audiobook shop
+this project is the project in course **"Road To Data Engineer 2.0"** by **"Data TH"** 
