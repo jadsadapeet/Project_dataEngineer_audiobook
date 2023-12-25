@@ -19,7 +19,7 @@ conversion_rate_output_path = f"{datalake}/input/conversion_rate.csv"
 output_path = f"{datalake}/output/output.csv"
 
 def get_data_from_mysql(transaction_path,data_path,trans_path) :
-    # รับ transaction_path มาจาก task ที่เรียกใช้\
+    # รับ transaction_path,data_path,trans_path มาจาก task ที่เรียกใช้\
     # เรียกใช้ MySqlHook เพื่อต่อไปยัง MySQL จาก connection ที่สร้างไว้ใน Airflow
     mysqlserver = MySqlHook(MYSQL_CONNECTION)
     # Query จาก database โดยใช้ Hook ที่สร้าง ผลลัพธ์ได้ pandas DataFrame
