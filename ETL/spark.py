@@ -4,12 +4,12 @@ import pandas as pd
 import requests
 
 class Config :
-    MYSQL_HOST = "34.136.184.58"
+    MYSQL_HOST = "******"
     MYSQL_PORT = 3306
-    MYSQL_USER = "r2de2"
-    MYSQL_PASSWORD="I_Love_Data_Engineer"
-    MYSQL_DB= "r2de2"
-    MYSQL_CHARSET= "utf8mb4"
+    MYSQL_USER = "*****"
+    MYSQL_PASSWORD="***"
+    MYSQL_DB= "***"
+    MYSQL_CHARSET= "****"
 
 # Connect to  the databese
 connection=pymysql.connect(host=Config.MYSQL_HOST,
