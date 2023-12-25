@@ -52,4 +52,3 @@ The objective of this project is to collect, integrate, transform, and clean dat
 -------------
 - Python
 - SQL
-- Spark
