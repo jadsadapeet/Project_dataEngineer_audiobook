@@ -36,7 +36,7 @@ The objective of this project is to collect, integrate, transform, and clean dat
     ![DAG_pic]
 7. Create a view table from a table in Dataset in **BigQuery**. Then use this view table to make Sales Dashboard in **Looker Studio**
 8. See the Sales Dashboard as the attached link below:  
-    [Sales Dashboard]
+    [https://lookerstudio.google.com/reporting/88ed731e-4c2b-4b99-82f7-da0dbc1172de]
 
 ## ***Technologies Used***
 ----------------------
