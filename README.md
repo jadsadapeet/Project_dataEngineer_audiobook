@@ -10,7 +10,6 @@ The objective of this project is to collect, integrate, transform, and clean dat
 **In *Github***
 - **dags** : store DAG script
     - audiobook_dag.py : DAG Python script for data pipeline by using Apache Airflow
-**In *Google drive*** : following this link ---> [data in this project]
 - **data** : store data in this project
     - **input**
         - audible_data.csv : Audiobook data
